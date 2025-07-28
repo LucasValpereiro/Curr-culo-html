@@ -1,1 +1,75 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Currículo - Lucas Valpereiro</title>
+</head>
+<body>
+    <center>
+        <h1>Lucas Valpereiro</h1>
+    <h2>Administrador</h2>
+    <p>Rua Antonele Bezerra, Meireles - Fortaleza, CE - 60160-070</p>
+<p><strong>Telefone:</strong>+55 85 99650-5100</p> 
+<p><strong>Email:</strong>lucasvalpereiro@hotmail.com</p>
+</center>
+<hr>
+<h2>Sobre Mim</h2>
+<p>Sou um profissional dedicado e apaixonado pela minha área de atuação, com experiência consolidada em administração.
+        Ao longo da minha carreira, desenvolvi habilidades sólidas nas áreas de cobrança, comercial e gestão de equipe,
+        demonstrando um comprometimento constante com excelência e dedicação.
+</p>
 
+<hr>
+
+<h2>Experiências Profissionais</h2>
+<h3>BRIC Group - The Coral Resort</h3>
+<p><strong>Período:</strong>Novembro 2021 – Junho 2025</p>
+<p><strong>Cargo:</strong>Assistente de Relacionamento na Cobrança e Atendimento de Clientes</p>
+<p>Responsável pelo suporte geral ao cliente desde recebimento de débitos e negociações, 
+        atendimento telefônico e presencial, preenchimento diário de planilhas, envios de 
+        comprovantes e boletos, além de alterações diversas em sistema.
+</p>
+<h3>Blackout - Agência Produtora de Conteúdo Digital e Audiovisual</h3>
+<p><strong>Período:</strong>Julho 2021 - Outubro 2021</p>
+<p><strong>Cargo:</strong>Comercial</p>
+<p>Responsável direto por todas as pesquisas e coletas de informações, desde captação a
+atendimento de clientes, agendamento de reuniões, atuando como ponto central de
+comunicação e Feedbacks.
+</p>
+<h3>Wizard</h3>
+<p><strong>Período:</strong>Julho 2020 - Abril 2021</p>
+<p><strong>Cargo:</strong>Assistente de Projetos Bilíngue</p>
+<p>Atuei nas principais decisões dentro do projeto, como pesquisa de possíveis alvos, coleta
+de informações, agendamento de reuniões, repasse de Feedbacks.
+</p>
+
+<hr>
+
+<h2>Educação</h2>
+<p><strong>2023</strong>Graduação em Administração
+Unifor, Universidade de Fortaleza</p>
+<p><strong>2017</strong>Ensino médio completo
+Colégio Santa Cecília</p>
+
+<hr>
+
+<h2>Certificados</h2>
+<ul>
+    <li>Comunicação</li>
+    <li>Pensamento Crítico</li>
+    <li>Proatividade</li>
+    <li>Aprendizado Contínuo</li>
+    <li>Trabalho em Equipe</li>
+    <li>Flexibilidade</li>
+</ul>
+
+<hr>
+
+<h2>Idiomas</h2>
+<p>Inglês – Nível Avançado</p>
+
+<br><br>
+<center>Obrigado por visualizar meu currículo!</center>
+</body>
+</html>
